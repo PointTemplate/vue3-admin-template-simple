@@ -1,5 +1,5 @@
 <template>
     <div>
-        考试管理
+        项目管理
     </div>
 </template>

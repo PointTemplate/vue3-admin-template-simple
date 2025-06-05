@@ -1,4 +1,3 @@
-// src/directives/permission.ts
 import type { Directive } from 'vue'
 import { useUserStore } from '@/stores/userStore'
 
